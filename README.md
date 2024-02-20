@@ -7,3 +7,5 @@ Simulates an autonomous drone flight path:
 - Drone is commanded using Python OOP to fly towards specific waypoints, halt, land, etc.
 
 <img width="1198" alt="image" src="https://github.com/janez45/autonomy-bootcamp-2023/assets/97042818/77e34fa6-b2db-4527-b9f2-c266225afedb">
+<img width="1292" alt="image" src="https://github.com/janez45/autonomy-bootcamp-2023/assets/97042818/3673fb54-3ef9-4883-9362-fca60e6ef527">
+
